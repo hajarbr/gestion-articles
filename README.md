@@ -58,6 +58,13 @@ npm run build
 # Start the production server:
 npm start
 
+# Docker Setup
+1. Build the Docker image:
+    docker-compose build
+
+2. docker-compose up
+    docker-compose up
+
 # API Endpoints
 This project communicates with a Symfony backend. Below are the key API endpoints
 
